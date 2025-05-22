@@ -1,0 +1,3 @@
+GEMINI_API_KEY = r'AIzaSyB5TzQFf1hvTmWczE7l9m2K-7RhBnqbFXs' 
+YOUR_API_KEY = r'AIzaSyB5TzQFf1hvTmWczE7l9m2K-7RhBnqbFXs' 
+
